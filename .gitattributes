@@ -1,0 +1,6 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+Plugins/PaperZD/Binaries/Win64/UnrealEditor-PaperZDEditor.pdb filter=lfs diff=lfs merge=lfs -text
+Plugins/PaperZD/Binaries/Win64/UnrealEditor-PaperZD.pdb filter=lfs diff=lfs merge=lfs -text
